@@ -1,6 +1,4 @@
-# Hi, I'm Ayoub 👋
-
-**Ayoub El Youbi Ben Ameur**
+# Ayoub El Youbi Ben Ameur
 
 First-year Engineering Cycle student at **ENSA Al Hoceima**, specializing in **Digital Transformation and Artificial Intelligence**.
 
@@ -10,7 +8,7 @@ I'm now progressing into **Machine Learning**, followed by **Deep Learning** dur
 
 ---
 
-## 🎓 Current Direction
+## Current Direction
 
 ```text
 Python & Data Foundations
@@ -28,7 +26,7 @@ My goal is not only to use AI tools, but to understand the concepts, code, archi
 
 ---
 
-## 🤖 First-Year Engineering Internship — Digital Factory
+## First-Year Engineering Internship — Digital Factory
 
 My first-year Engineering Cycle internship focused on studying modern AI systems and developing a **governed multi-agent software-development workflow** using **Hermes Agent and LLM-backed specialist agents**.
 
@@ -67,9 +65,9 @@ The [Task Management App](https://github.com/ayuuOub/task-management-app) was de
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🤖 [Digital Factory](https://github.com/ayuuOub/digital-factory)
+### [Digital Factory](https://github.com/ayuuOub/digital-factory)
 
 **First-year Engineering Cycle internship project**
 
@@ -83,7 +81,7 @@ The project includes specialist-agent separation, governed handoffs, Human appro
 
 ---
 
-### ✅ [Task Management App](https://github.com/ayuuOub/task-management-app)
+### [Task Management App](https://github.com/ayuuOub/task-management-app)
 
 A full-stack task management application developed as the reference software product for the Digital Factory.
 
@@ -105,7 +103,7 @@ MySQL
 
 ---
 
-### 👁️ [SmartFace Attendance](https://github.com/ayuuOub/SmartFace_attendance)
+### [SmartFace Attendance](https://github.com/ayuuOub/SmartFace_attendance)
 
 A Python desktop attendance-management application integrating facial recognition.
 
@@ -117,7 +115,7 @@ Main functionality includes student management, attendance tracking, face-recogn
 
 ---
 
-### 🎓 [PFE Planning & Management](https://github.com/ayuuOub/Gestion-Et-Planification-PFEs-Projet)
+### [PFE Planning & Management](https://github.com/ayuuOub/Gestion-Et-Planification-PFEs-Projet)
 
 An academic application for managing and generating university final-project defense schedules.
 
@@ -129,7 +127,7 @@ The project includes student, teacher, room, jury, supervisor, and scheduling ma
 
 ---
 
-### 🧪 [Research Laboratory Digitalization](https://github.com/ayuuOub/Projet-Gestion-Laboratoires)
+### [Research Laboratory Digitalization](https://github.com/ayuuOub/Projet-Gestion-Laboratoires)
 
 A collaborative academic platform for digitalizing research-laboratory activities.
 
@@ -141,7 +139,7 @@ The project included laboratory-member, project, equipment, publication, and sci
 
 ---
 
-## 🛠️ Technical Background
+## Technical Background
 
 ### Languages & Software Development
 
@@ -163,7 +161,7 @@ The project included laboratory-member, project, equipment, publication, and sci
 
 ---
 
-## 🧠 What I'm Learning Now
+## What I'm Learning Now
 
 I'm currently focusing on **Machine Learning**, including:
 
@@ -178,7 +176,7 @@ My longer-term direction is to deepen my understanding of **Machine Learning, De
 
 ---
 
-## 🎯 Goal
+## Goal
 
 I'm interested in the intersection of:
 
@@ -200,7 +198,7 @@ I want to build AI systems that I can **understand, explain, test, improve, and 
 
 ---
 
-## 📫 Connect With Me
+## Contact
 
 - **GitHub:** [@ayuuOub](https://github.com/ayuuOub)
 - **LinkedIn:** [Ayoub El Youbi Ben Ameur](https://www.linkedin.com/in/ayoub-el-youbi-ben-ameur/)
